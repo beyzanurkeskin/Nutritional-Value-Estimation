@@ -35,3 +35,5 @@ To ensure timely progress and successful completion of our project, we have outl
 5. Analyze the experimental results, identify potential areas for improvement, and refine the models accordingly.
 6. Prepare the progress report summarizing the methodology, experimental setup, results, and future directions.
 
+## Poster 
+![Poster](https://github.com/beyzanurkeskin/Nutritional-Value-Estimation/blob/main/Poster/poster.png)
