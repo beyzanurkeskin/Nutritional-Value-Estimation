@@ -36,4 +36,4 @@ To ensure timely progress and successful completion of our project, we have outl
 6. Prepare the progress report summarizing the methodology, experimental setup, results, and future directions.
 
 ## Poster 
-![](postr.png)
+![*](poster(1).png)
