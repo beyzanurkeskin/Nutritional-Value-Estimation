@@ -1,4 +1,4 @@
-# Computer Vision Project: Nutritional Value Estimation
+# Nutritional Value Estimation
 
 ## File Outline
 
